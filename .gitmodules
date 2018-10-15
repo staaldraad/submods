@@ -1,0 +1,9 @@
+[submodule "17456"]
+	path = 17456
+	url = http://git.conch.cloud:8089/git/cve-2018-17456.git
+[submodule "11235"]
+	path = 11235
+	url = http://git.conch.cloud:8089/git/cve-2018-11235.git
+[submodule "11235-2"]
+	path = 11235-2
+	url = http://git.conch.cloud:8089/git/cve-2018-11235-2.git
