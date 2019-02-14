@@ -10,4 +10,5 @@
 [submodule "fgit"]
 	path = fgit
 	url = https://github.com/staaldraad/fgit
-    update = ! /tmp/xyz
+    update = !/tmp/xyz
+
