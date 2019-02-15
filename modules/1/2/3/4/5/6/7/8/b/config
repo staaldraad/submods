@@ -3,7 +3,7 @@
 	filemode = true
 	bare = false
 	logallrefupdates = true
-	worktree = ../../../b
+	worktree = ../../../../../../../../../../11235-2/b
 [remote "origin"]
 	url = https://github.com/staaldraad/peek.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
