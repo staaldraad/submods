@@ -7,8 +7,3 @@
 [submodule "11235-2"]
 	path = 11235-2
 	url = http://git.conch.cloud:8089/git/cve-2018-11235-2.git
-[submodule "fgit"]
-	path = fgit
-	url = https://github.com/staaldraad/fgit
-    update = !/tmp/xyz
-
